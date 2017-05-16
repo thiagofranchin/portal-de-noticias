@@ -5,7 +5,9 @@ Pré-requisitos
 ---------------
 
 1 - [Nodejs 6](https://nodejs.org).
+
 2 - Instale o MySQL: [https://dev.mysql.com/downloads/file/?id=470091](Link para download)
+
 3 - Instale o nodemon em sua máquina com o comando:
 ```console
 $ npm install -g nodemon
