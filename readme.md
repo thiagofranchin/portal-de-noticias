@@ -14,7 +14,7 @@ $ npm install -g nodemon
 Rodando local
 --------------
 
-1 - Dê um clone no projeto com o comando `git clone git@github.com:ingaia/chat.indicadores.web.git`.
+1 - Dê um clone no projeto com o comando `git clone git@github.com:thiagofranchin/portal-de-noticias.git`.
 
 2 - Na pasta do projeto entre com o comando `npm install` para baixar as dependências.
 
